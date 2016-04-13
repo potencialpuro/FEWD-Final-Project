@@ -1,0 +1,12 @@
+body {
+	background-color: #575a5d;
+}
+#container {
+	margin: 0 auto;
+	max-width: 1280px;
+	font-family: 'Josefin Slab', serif;
+	background-color: #343a42;	
+}
+.calendar {
+	background-color: #6dc8bf;
+}
